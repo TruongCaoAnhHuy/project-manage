@@ -1,0 +1,15 @@
+# packing
+*.zip
+*.rar
+*.json
+*.lock
+/application/composer.json
+/application/composer.lock
+
+# folder
+/application/vendor
+/media
+/backups
+/backup language
+/system/fonts
+/temp
